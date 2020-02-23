@@ -15,6 +15,10 @@ Added sumOfBookScores
 1.1 22906731
 2 22906197
 
-New
+Saran's multiplicative factor
+24535857
+
+With only unique books
+24635551
 
 Highest score on scoreboard: 27,133,897
