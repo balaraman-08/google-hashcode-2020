@@ -5,9 +5,10 @@ Every year, Google organizes a programming competition called Hash Code. The goa
 
 I participated in this competition with my team
 ## Members
-1. [Ganesh Ramkumar](https://github.com/Science001/)
-2. [Suryarajan](https://github.com/theWellHopeErr)
-3. [Gowtham](https://github.com/littleboy1103)
+1. [Balaraman](https://github.com/balaraman-08/)
+2. [Ganesh Ramkumar](https://github.com/Science001/)
+3. [Suryarajan](https://github.com/theWellHopeErr)
+4. [Gowtham](https://github.com/littleboy1103)
 
 ## Files
 - [hashcode_2020_online_qualification_round.pdf](https://github.com/balaraman-08/google-hashcode-2020/blob/master/hashcode_2020_online_qualification_round.pdf) - **Problem statement**
